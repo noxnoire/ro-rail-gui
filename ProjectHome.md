@@ -1,0 +1,1 @@
+Rampage AI Lite GUI is a graphical interface to monitor and configure the Rampage AI Lite script. For more information about Rampage AI Lite, please visit http://code.google.com/p/ro-rail/
